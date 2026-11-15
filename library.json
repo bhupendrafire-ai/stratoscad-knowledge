@@ -1,1 +1,22 @@
-{"schema":1,"request_queue":"https://github.com/bhupendrafire-ai/stratoscad-knowledge","records":[]}
+{
+  "schema": 1,
+  "request_queue": "https://github.com/bhupendrafire-ai/stratoscad-knowledge",
+  "records": [
+    {
+      "claim": "One standard inch is exactly 25.4 millimetres.",
+      "scope": "Length unit conversion between standard inches and millimetres.",
+      "url": "https://www.nist.gov/pml/owm/si-units-length",
+      "evidence": "The value for the inch, derived from the value of the Yard effective July 1, 1959, is exactly equivalent to 25.4 mm.",
+      "request": 1,
+      "reviewer": "bhupendrafire-ai",
+      "review_digest": "855d10bc01abb3f7f8f6"
+    }
+  ],
+  "decisions": {
+    "1": {
+      "decision": "approve",
+      "digest": "855d10bc01abb3f7f8f6",
+      "reviewer": "bhupendrafire-ai"
+    }
+  }
+}
